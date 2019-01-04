@@ -1,0 +1,61 @@
+abide	abode	abode	se conformer	0
+arise	arose	arisen	surgir	7
+awake	awoke	awoken	se reveiller	7
+be	was. were	been	/^etre	8
+bear	bore	borne	porter	8
+beat	beat	beaten	battre	9
+become	became	become	devenir	9
+begin	began	begun	commencer	10
+bend	bent	bent	courber	10
+bet	bet	bet	parier	11
+bind	bound	bound	lier	11
+bite	bit	bitten	mordre	14
+bleed	bled	bled	saigner	14
+blow	blew	blown	souffler	15
+break	broke	broken	casser	15
+bring	brought	brought	apporter	16
+build	built	built	construire	16
+burn	burnt	burnt	br/^uler	17
+burst	burst	burst	/'eclater	17
+buy	bought	boiught	acheter	18
+catch	caught	caught	attraper	18
+choose	chose	chosen	choisir	21
+come	came	come	venir	21
+cost	cost	cost	co/^uter	22
+creep	crept	crept	ramper	22
+cut	cut	cut	couper	23
+deal	dealt	dealt	distribuer	23
+do	did	done	faire	24
+draw	drew	drawn	dessiner, tirer	24
+dream	dreamt	dreamt	r/^ever	25
+drink	drank	drunk	boire	25
+drive	drove	driven	conduire	28
+eat	ate	eaten	manger	28
+fall	fell	fallen	tomber	29
+feed	fed	fed	nourrir	29
+feel	felt	felt	(res)sentir	30
+fight	fought	fought	combattre	30
+find	found	found	trouver	31
+fly	flew	flown	voler	31
+forbid	forbade	forbidden	interdire	32
+forget	forgot	forgotten	oublier	32
+forgive	forgave	forgiven	pardonner	35
+freeze	froze	frozen	geler	35
+get	got	got. gotten	obtenir	36
+give	gave	given	donner	36
+go	went	gone	aller	37
+grow	grew	grown	pousser	37
+hang	hung	hung	pendre	38
+have	had	had	avoir, prendre	38
+hear	heard	heard	entendre	39
+hide	hid	hidden	cacher	39
+hit	hit	hit	frapper	42
+hold	held	held	tenir	42
+hurt	hurt	hurt	blesser	43
+keep	kept	kept	garder	43
+know	knew	known	savoir	44
+lay	laid	laid	poser	44
+lead	led	led	mener	45
+lean	leant	leant	incliner	45
+leap	leapt	leapt	sauter	46
+learn	learnt	learnt	apprendre	46
